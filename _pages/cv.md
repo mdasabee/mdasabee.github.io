@@ -11,49 +11,66 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+* Doctor of Philosophy Degree in Mathematics, Ohio University, Athens, OH, 2024
+  Dissertation Topic: Evolving the architecture of a hybrid neural network with QR decomposition.
+  Advisor: Professor Martin Mohlenkamp
+  Relevant Coursework: Artificial Intelligence, Linear Models, Numerical Approximation Theory.
+* Master of Science in Mathematics, Ohio University, Athens, OH, 2020
+  Relevant Coursework: Optimization and Algorithm Design, Mathematical Statistics, Stochastic Calculus in Finance.
+* Bachelor of Science in Mathematics, Kwame Nkrumah University Of Science And Technology, Ghana, 2017
+  Bachelors Thesis: Optimal Allocation Of The University Shuttle Terminals Using Genetic Algorithm
+  Advisor: Professor Peter Amoako-Yirenkyi
+  Relevant Coursework: Matrix Algebra, Physics.
+  
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - 2024: Doctoral Researcher
+  * Ohio University
+  * Duties included:
+    Predicted Fall 2022-23 enrollments in (lower-level) MATH courses on Athens campus of Ohio University using Python. Mathematics Department, Ohio University, Summer, 2022.
+    Performed Monte Carlo Simulations for computing expected Interest rates and pricing various types of Options (Call, Lookback, Barrier) using Python. Dr. Feng’s Research group. Mathematics Department, Ohio University, Fall, 2020
+    Performed frequency analysis on Electroencephalogram data of a patient with Fast Fourier Transform using MATLAB. Dr. Shen’s Research group. Mathematics Department, Ohio University, Spring, 2019
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - 2024: Teaching Assistant
+  * Ohio University
+  * Duties included: Instructing undergraduate level mathematics courses like Calculus and Statistics.
+
+* 2017 - 2018: Teaching Assistant
+  * Kwame Nkrumah University Of Science And Technology
+  * Duties included: Conducting recitations, and managing a virtual classroom and facilitated student research projects.
+
+* Summer 2015: Data Analyst Intern
+  * Kwame Nkrumah University Of Science And Technology
+  * Duties included: Recording and managing data on members enrolled on the national insurance scheme with MS Excel.
+    Answering calls daily to address customer inquiries and educate people on the importance of the pension scheme.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Literacy
+  * LATEX
+  * MATLAB
+  * PYTHON
+  * SQL
+  * R
+  * Git
+  * Microsoft Office
+* Behavioral Skills
+  * Excellent written and verbal communication skills.
+  * Attention to detail and critical thinking.
+  * Able to manage multiple projects across various timelines.
+  * Productive with both independent and teamwork.
+  * Strong interpersonal and leadership skills.
+  * Highly self-disciplined, self-motivated and results oriented.
+  * Understanding of learners and ability to adapt instruction to diverse learning styles.
+  * Demonstrates a caring approach towards students, providing dedicated support and guidance to foster their success.
+  * Continuously seeks growth and improvement, embracing suggestions and maintaining a mindset of ongoing development.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+Full CV available here
+
+[//]: Publications
+[//]: ======
+[//]:  <ul>{% for post in site.publications %}
+[//]:    {% include archive-single-cv.html %}
+[//]:  {% endfor %}</ul>
+
