@@ -66,5 +66,5 @@ Skills
   * Continuously seeks growth and improvement, embracing suggestions and maintaining a mindset of ongoing development.
 
 
-Full CV available here
+[Full CV available here](http://academicpages.github.io/files/paper3.pdf)
 
