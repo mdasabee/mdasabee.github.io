@@ -11,38 +11,41 @@ redirect_from:
 
 Education
 ======
-* Doctor of Philosophy Degree in Mathematics, Ohio University, Athens, OH, 2024
-  Dissertation Topic: Evolving the architecture of a hybrid neural network with QR decomposition.
-  Advisor: Professor Martin Mohlenkamp
-  Relevant Coursework: Artificial Intelligence, Linear Models, Numerical Approximation Theory.
-* Master of Science in Mathematics, Ohio University, Athens, OH, 2020
-  Relevant Coursework: Optimization and Algorithm Design, Mathematical Statistics, Stochastic Calculus in Finance.
-* Bachelor of Science in Mathematics, Kwame Nkrumah University Of Science And Technology, Ghana, 2017
-  Bachelors Thesis: Optimal Allocation Of The University Shuttle Terminals Using Genetic Algorithm
-  Advisor: Professor Peter Amoako-Yirenkyi
-  Relevant Coursework: Matrix Algebra, Physics.
+* Doctor of Philosophy Degree in Mathematics, Ohio University, Athens, OH, 2024.
+  * Dissertation Topic: Evolving the architecture of a hybrid neural network with QR decomposition.
+  * Advisor: Professor Martin Mohlenkamp
+  * Relevant Coursework: Artificial Intelligence, Linear Models, Numerical Approximation Theory.
+* Master of Science in Mathematics, Ohio University, Athens, OH, 2020.
+  * Relevant Coursework: Optimization and Algorithm Design, Mathematical Statistics, Stochastic Calculus in Finance.
+* Bachelor of Science in Mathematics, Kwame Nkrumah University Of Science And Technology, Ghana, 2017.
+  * Bachelors Thesis: Optimal Allocation Of The University Shuttle Terminals Using Genetic Algorithm
+  * Advisor: Professor Peter Amoako-Yirenkyi
+  * Relevant Coursework: Matrix Algebra, Physics.
   
 Work experience
 ======
 * 2020 - 2024: Doctoral Researcher
   * Ohio University
   * Duties included:
-    Predicted Fall 2022-23 enrollments in (lower-level) MATH courses on Athens campus of Ohio University using Python. Mathematics Department, Ohio University, Summer, 2022.
-    Performed Monte Carlo Simulations for computing expected Interest rates and pricing various types of Options (Call, Lookback, Barrier) using Python. Dr. Feng’s Research group. Mathematics Department, Ohio University, Fall, 2020
-    Performed frequency analysis on Electroencephalogram data of a patient with Fast Fourier Transform using MATLAB. Dr. Shen’s Research group. Mathematics Department, Ohio University, Spring, 2019
+    * Predicted Fall 2022-23 enrollments in (lower-level) MATH courses on Athens campus of Ohio University using Python. Mathematics Department, Ohio University, Summer, 2022.
+    * Performed Monte Carlo Simulations for computing expected Interest rates and pricing various types of Options (Call, Lookback, Barrier) using Python. Dr. Feng’s Research group. Mathematics Department, Ohio University, Fall, 2020
+    * Performed frequency analysis on Electroencephalogram data of a patient with Fast Fourier Transform using MATLAB. Dr. Shen’s Research group. Mathematics Department, Ohio University, Spring, 2019
 
 * 2018 - 2024: Teaching Assistant
   * Ohio University
-  * Duties included: Instructing undergraduate level mathematics courses like Calculus and Statistics.
+  * Duties included:
+    * Instructing undergraduate level mathematics courses like Calculus and Statistics.
 
 * 2017 - 2018: Teaching Assistant
   * Kwame Nkrumah University Of Science And Technology
-  * Duties included: Conducting recitations, and managing a virtual classroom and facilitated student research projects.
+  * Duties included:
+    * Conducting recitations, and managing a virtual classroom and facilitated student research projects.
 
 * Summer 2015: Data Analyst Intern
   * Kwame Nkrumah University Of Science And Technology
-  * Duties included: Recording and managing data on members enrolled on the national insurance scheme with MS Excel.
-    Answering calls daily to address customer inquiries and educate people on the importance of the pension scheme.
+  * Duties included:
+    * Recording and managing data on members enrolled on the national insurance scheme with MS Excel.
+    * Answering calls daily to address customer inquiries and educate people on the importance of the pension scheme.
   
 Skills
 ======
