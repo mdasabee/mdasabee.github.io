@@ -77,6 +77,8 @@ analytics:
   google:
     tracking_id          :
 
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air"
 
 # Site Author
 author:
@@ -309,6 +311,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air"
