@@ -8,14 +8,14 @@ excerpt: "My teaching philosophy is grounded in the belief that all students can
 date: "2017-10-01"
 ---
 
-Taught Courses At Ohio University
+At Ohio University
 ====
 * MATH 1200: College Algebra   F18, Sp18
 * MATH 1300: Pre-Calculus   F19, Sp19
 * MATH 1350: Survey of Calculus   F20, Sp20, F21, Sp21, F22, Sp22, Su22,
 * MATH 2500: Statistics and Probability   F23
 
-Taught Courses At Kwame Nkrumah University Of Science And Technology
+At Kwame Nkrumah University Of Science And Technology
 ====
 * MATH 365: Differential Equations II   F17
 * MATH 375: Numerical Methods and Computations II   F17
