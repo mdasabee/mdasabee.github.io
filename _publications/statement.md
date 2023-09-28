@@ -7,9 +7,9 @@ practical applications of machine learning in open mathematics problems. In the 
 date: 2023-10-01
 ---
 
-Preprint
+''' Preprint
 =====
-* author: '', title: '', venue: 'Journal', paperurl: 'link', citation: 'cite', abstract:''
+* author: '', title: '', venue: 'Journal', paperurl: 'link', citation: 'cite', abstract:'' '''
 
 <!-- Editorial work -->
 
