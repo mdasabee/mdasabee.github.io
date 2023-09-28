@@ -5,7 +5,7 @@ practical applications of machine learning in open mathematics problems. In the 
 title: "Research Statement"
 collection: publications
 permalink: / publication/statement
-excerpt: ''
+excerpt: '.'
 date: 2023-10-01
 venue: 'Journal'
 ---
