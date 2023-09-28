@@ -1,5 +1,5 @@
 ---
-title: "Teaching Statement"
+title: "Taught Courses"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/Teaching-1
