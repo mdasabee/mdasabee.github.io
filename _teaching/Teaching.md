@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Teaching Statement"
 collection: teaching
 type: "Undergraduate courses"
