@@ -11,5 +11,5 @@ Preprint
 =====
 * author: '', title: '', venue: 'Journal', paperurl: 'link', citation: 'cite', abstract:''
 
-[comment]: # Editorial work
+<!-- Editorial work -->
 
