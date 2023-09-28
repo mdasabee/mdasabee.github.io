@@ -8,6 +8,8 @@ excerpt: "My teaching philosophy is grounded in the belief that all students can
 date: "2017-10-01"
 ---
 
+{% include base_path %}
+
 At Ohio University
 ====
 * MATH 1200: College Algebra   F18, Sp18
