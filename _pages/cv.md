@@ -27,7 +27,7 @@ Work experience
 * 2024 - current: Quantitative Analytics Specialist
   * Wells Fargo
   * Duties included:
-    * 
+
 * 2020 - 2024: Doctoral Researcher
   * Ohio University
   * Duties included:
