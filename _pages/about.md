@@ -15,6 +15,7 @@ Currently I work as a teaching assistant for undergraduate mathematics courses i
 
 My research interests include;
 1. Machine Learning
+1. Financial Derivatives
 1. Numerical Analysis in High Dimensions 
 1. Scientific Computing
 1. Optimization
