@@ -24,6 +24,10 @@ Education
   
 Work experience
 ======
+* 2024 - current: Quantitative Analytics Specialist
+  * Wells Fargo
+  * Duties included:
+    * 
 * 2020 - 2024: Doctoral Researcher
   * Ohio University
   * Duties included:
@@ -58,15 +62,13 @@ Skills
   * Git
   * Microsoft Office
 * Behavioral Skills
+  * Strong interpersonal and leadership skills.
   * Excellent written and verbal communication skills.
   * Attention to detail and critical thinking.
   * Able to manage multiple projects across various timelines.
   * Productive with both independent and teamwork.
-  * Strong interpersonal and leadership skills.
   * Highly self-disciplined, self-motivated and results oriented.
   * Understanding of learners and ability to adapt instruction to diverse learning styles.
-  * Demonstrates a caring approach towards students, providing dedicated support and guidance to foster their success.
   * Continuously seeks growth and improvement, embracing suggestions and maintaining a mindset of ongoing development.
 
 
-Full CV available [here](http://mdasabee.github.io/files/Michael_CV.pdf)
