@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Doctor of Philosophy Degree in Mathematics, Ohio University, Athens, OH, 2024.
-  * Dissertation Topic: Evolving the architecture of a hybrid neural network with QR decomposition.
+  * Dissertation Topic: Adapting the Size and Node-Type Mixture of a Hybrid Neural Network While Training.
   * Advisor: Professor Martin Mohlenkamp
   * Relevant Coursework: Artificial Intelligence, Linear Models, Numerical Approximation Theory.
 * Master of Science in Mathematics, Ohio University, Athens, OH, 2020.
