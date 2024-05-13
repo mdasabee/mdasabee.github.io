@@ -11,7 +11,7 @@ redirect_from:
 Michael is a mathematician holding a doctorate degree from Ohio University. 
 Prior to starting my PhD, I received a bachelor's degree in mathematics from Kwame Nkrumah University Of Science and Technology, Ghana, in 2017. I also received a master's degree in mathematics from Ohio University, United States, in 2020.
 
-Currently I work as a teaching assistant for undergraduate mathematics courses in Ohio University, where I help students learn and understand the beauty of mathematics. I am committed to using my knowledge and skills to make a positive impact on students who will be the future leaders of tomorrow.
+Currently I work as a Quantitative Analyst in Wells Fargo. My recent teaching experience was serving as a teaching assistant for undergraduate mathematics courses in Ohio University, where I help students learn and understand the beauty of mathematics. I am committed to using my knowledge and skills to make a positive impact on students who will be the future leaders of tomorrow.
 
 My research interests include;
 1. Machine Learning
